@@ -7,8 +7,8 @@
     <string name="addtional_key_settings">추가 키 설정</string>
     <string name="allow">접근 허용됨.</string>
     <string name="allow_sample_install">예제(swf) 파일 설치</string>
-    <string name="app_name">SWF Player</string>
-    <string name="app_name_pro">SWF Player Pro</string>
+    <string name="swf_player">SWF Player</string>
+    <string name="swf_player_pro">SWF Player Pro</string>
     <string name="application_error">어플리케이션 오류: %1$s</string>
     <string name="are_you_sure_to_close">종료하시겠습니까??</string>
     <string name="are_you_sure_to_delete">정말로 삭제하시겠습니까?</string>
@@ -71,9 +71,9 @@
     <string name="crash_dialog_text">예상치 못한 문제가 발생하여 SWF Player가 멈추었습니다. 에러데이터를 보내 문제를 수정하는데 도움을 줄 수 있습니다.</string>
     <string name="crash_dialog_title">SWF Player has crashed</string>
     <string name="crash_notif_text">여기를 클릭하면 SWF Player 개발자에게 문제를 수정하는데 도움을 줄 수 있습니다..</string>
-    <string name="crash_notif_ticker_text">SWF Player에 예상치 못한 에러가 발생했습니다...</string>
-    <string name="crash_notif_title">SWF Player has crashed...</string>
-    <string name="crash_toast_text">으악! SWF Player에 예상치 못한 에러가 발생하였습니다. SWF Player 개발자에게 에러 리포트를 보냈습니다.</string>
+    <string name="crash_notif_ticker_text">SWF Player에 예상치 못한 에러가 발생했습니다!</string>
+    <string name="crash_notif_title">SWF Player has crashed!</string>
+    <string name="crash_toast_text">으악! SWF Player에 예상치 못한 에러가 발생하였습니다! SWF Player 개발자에게 에러 리포트를 보냈습니다.</string>
     <string name="date">날짜</string>
     <string name="default_directory">기본 경로</string>
     <string name="delete">삭제</string>
@@ -90,8 +90,8 @@
     <string name="eight_way_key">8방향 키 </string>
     <string name="email">이메일</string>
     <string name="emailAuth">이메일 인증 확인</string>
-    <string name="emailAuth_need_to_check">이메일을 확인해 주세요</string>
     <string name="emailAuthCode">이메일 인증 코드</string>
+    <string name="emailAuth_need_to_check">이메일을 확인해 주세요</string>
     <string name="error">에러</string>
     <string name="feedback">피드백</string>
     <string name="file">파일</string>
@@ -103,7 +103,8 @@
     <string name="fill_blank">빈 항목을 채우세요.</string>
     <string name="fit_screen">화면맞춤</string>
     <string name="flash">플래시</string>
-    <string name="flash_player_setting">플래시 플레이어 설정</string>
+    <string name="flash_player_setting">Flash Player 설정</string>
+    <string name="air_setting">AIR 설정</string>
     <string name="four_way_key">4방향 키 </string>
     <string name="good">좋아요! ^_^)b</string>
     <string name="hide_osd">OSD 감추기</string>
@@ -160,6 +161,7 @@
     <string name="password">비밀번호</string>
     <string name="play_air_player">SWF Player (AIR)</string>
     <string name="play_flash_player">SWF Player (Flash Player Plugin)</string>
+    <string name="plugins_required">플러그인 필요</string>
     <string name="position">위치</string>
     <string name="prev">이전</string>
     <string name="quality">화질</string>
@@ -217,11 +219,11 @@
     <string name="title_adobe_air"><b>Adobe® AIR®</b></string>
     <string name="total_downloads">다운로드</string>
     <string name="track_ball">트랙볼</string>
-    <string name="track_ball_center">Track Ball Click</string>
-    <string name="track_ball_down">Track Ball Down</string>
-    <string name="track_ball_left">Track Ball Left</string>
-    <string name="track_ball_right">Track Ball Right</string>
-    <string name="track_ball_up">Track Ball Up</string>
+    <string name="track_ball_center">트랙볼 클릭</string>
+    <string name="track_ball_down">트랙볼 아래쪽</string>
+    <string name="track_ball_left">트랙볼 왼쪽</string>
+    <string name="track_ball_right">트랙볼 오른쪽</string>
+    <string name="track_ball_up">트랙볼 위쪽</string>
     <string name="unlicensed_dialog_body">License 되지 않은 APP입니다. 마켓에서 새로 구매해 주세요.</string>
     <string name="unlicensed_dialog_retry_body">License를 확인 할 수 없습니다. 네트워크 상태를 확인 하세요.</string>
     <string name="unlicensed_dialog_title">허가되지 않은 APP</string>
@@ -232,7 +234,7 @@
     <string name="upload_complete">업로드 완료!</string>
     <string name="upload_file_duplicated">이미 업로드된 파일은 업로드 할 수 없습니다!</string>
     <string name="upload_to_issess">issess.net에 업로드</string>
-    <string name="uploading">업로드중...</string>
+    <string name="uploading">업로드중&#8230;</string>
     <string name="use_html">HTML 사용(고급옵션)</string>
     <string name="use_recent_file_list">최근 재생 목록 사용</string>
     <string name="using_air_plugin">AIR 사용</string>
@@ -254,6 +256,5 @@
     <string name="write_ok">작성 완료!</string>
     <string name="www_open">HTTP 프로토콜 이용(동영상 스트리밍 지원)</string>
     <string name="zoom_in_out">줌 인/아웃</string>
-    <string name="plugins_required">플러그인 필요</string>
 
 </resources>

@@ -7,8 +7,8 @@
     <string name="addtional_key_settings">Additional Key Settings</string>
     <string name="allow">Allow the user access</string>
     <string name="allow_sample_install">Install sample file</string>
-    <string name="app_name">SWF Player</string>
-    <string name="app_name_pro">SWF Player Pro</string>
+    <string name="swf_player">SWF Player</string>
+    <string name="swf_player_pro">SWF Player Pro</string>
     <string name="application_error">Application error: %1$s</string>
     <string name="are_you_sure_to_close">Are you sure you want to close?</string>
     <string name="are_you_sure_to_delete">Are you sure to delete?</string>
@@ -90,8 +90,8 @@
     <string name="eight_way_key">8 way key</string>
     <string name="email">E-mail</string>
     <string name="emailAuth">Confirm E-mail auth</string>
-    <string name="emailAuth_need_to_check">Please, Check your E-mail</string>
     <string name="emailAuthCode">E-mail auth code</string>
+    <string name="emailAuth_need_to_check">Please, Check your E-mail</string>
     <string name="error">error</string>
     <string name="feedback">Feedback</string>
     <string name="file">File</string>
@@ -104,6 +104,7 @@
     <string name="fit_screen">Fit Screen</string>
     <string name="flash">Flash</string>
     <string name="flash_player_setting">Flash Player Setting</string>
+    <string name="air_setting">AIR Setting</string>
     <string name="four_way_key">4 way key</string>
     <string name="good">good! ^_^)b</string>
     <string name="hide_osd">Hide On-Screen Display</string>
@@ -160,6 +161,7 @@
     <string name="password">Password</string>
     <string name="play_air_player">SWF Player (AIR)</string>
     <string name="play_flash_player">SWF Player (Flash Player Plugin)</string>
+    <string name="plugins_required">Plugins Required</string>
     <string name="position">Position</string>
     <string name="prev">Previous</string>
     <string name="quality">Quality</string>
@@ -254,6 +256,5 @@
     <string name="write_ok">write OK!</string>
     <string name="www_open">use HTTP Protocol(Video Streaming)</string>
     <string name="zoom_in_out">Zoom In/Out</string>
-    <string name="plugins_required">Plugins Required</string>
 
 </resources>

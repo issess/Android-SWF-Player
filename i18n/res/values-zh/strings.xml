@@ -7,8 +7,8 @@
     <string name="addtional_key_settings">额外键设置</string>
     <string name="allow">Allow the user access</string>
     <string name="allow_sample_install">安装示例文件</string>
-    <string name="app_name">SWF 播放器</string>
-    <string name="app_name_pro">SWF 播放器 Pro</string>
+    <string name="swf_player">SWF 播放器</string>
+    <string name="swf_player_pro">SWF 播放器 Pro</string>
     <string name="application_error">Application error: %1$s</string>
     <string name="are_you_sure_to_close">你确定要关闭吗?</string>
     <string name="are_you_sure_to_delete">您确定要删除吗?</string>
@@ -89,8 +89,8 @@
     <string name="eight_way_key">8 way key</string>
     <string name="email">E-mail</string>
     <string name="emailAuth">确认 E-mail 验证</string>
-    <string name="emailAuth_need_to_check">请检查您的 E-mail</string>
     <string name="emailAuthCode">E-mail 验证码</string>
+    <string name="emailAuth_need_to_check">请检查您的 E-mail</string>
     <string name="error">错误</string>
     <string name="feedback">Feedback</string>
     <string name="file">文件</string>
@@ -103,9 +103,11 @@
     <string name="fit_screen">适合屏幕</string>
     <string name="flash">Flash</string>
     <string name="flash_player_setting">Flash Player 设置</string>
+    <string name="air_setting">AIR 设置</string>
     <string name="four_way_key">4 way key</string>
     <string name="good">good! ^_^)b</string>
-    <string name="hide_osd">隐藏屏幕显示</string>    <string name="il">全屏</string>
+    <string name="hide_osd">隐藏屏幕显示</string>
+    <string name="il">全屏</string>
     <string name="image">图像</string>
     <string name="incoming_message">新消息</string>
     <string name="install_air">Install Adobe Air® Plug-in</string>
@@ -158,6 +160,7 @@
     <string name="password">密码</string>
     <string name="play_air_player">SWF Player (AIR)</string>
     <string name="play_flash_player">SWF Player (Flash Player Plugin)</string>
+    <string name="plugins_required">所需的插件</string>
     <string name="position">位置</string>
     <string name="prev">上一个</string>
     <string name="quality">质量</string>
@@ -251,6 +254,5 @@
     <string name="write_ok">写入确定!</string>
     <string name="www_open">使用 HTTP 协议(视频流)</string>
     <string name="zoom_in_out">放大/缩小</string>
-    <string name="plugins_required">所需的插件</string>
 
 </resources>
